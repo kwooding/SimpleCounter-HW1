@@ -48,7 +48,7 @@
     <Button
         android:id="@+id/upgradeBtn"
         android:layout_marginTop="40dp"
-        android:layout_marginLeft="-280dp"
+        android:layout_marginLeft="-260dp"
         android:visibility="invisible"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
